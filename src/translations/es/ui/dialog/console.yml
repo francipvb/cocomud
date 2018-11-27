@@ -1,10 +1,7 @@
 ﻿title: Consola Python
 warning: |
-    BEWARE: this console is strictly for developers.  Much damage
-    can be done through it.  It's a fantastic debugging tool, but
-    shouldn't be used without knowing the hierarchy and layout of
-    the code.
+    Atención: esta consola es para desarrolladores. Un mal uso puede causar la inestabilidad del cliente.
 
-    Defined variables:
-        engine: the game engine
-        world: the current world
+    Variables definidas:
+        engine: el motor central
+        world: el mundo actual
